@@ -394,7 +394,7 @@ nav ul li a {
 }
 
 .services-carousel .owl-stage-outer {
-  overflow: hidden;
+  overflow: auto;
 }
 
 .services-carousel .owl-dots {
